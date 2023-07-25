@@ -1,0 +1,15 @@
+{
+  "name": "midi-keyboard",
+  "version": "1.0.0",
+  "description": "quieter typing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meap",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^2.0.0",
+    "robotjs": "^0.6.0"
+  }
+}
