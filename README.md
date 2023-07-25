@@ -1,6 +1,6 @@
 # node-textfromkey
 
-Couldn't find a good app for this compatible universally (it's a little known fact that I have to suffer with the inhibitions of MacOS). It was initially made for quieter typing, but could probably be bound for a lot more uses.
+Couldn't find a good app for this purpose compatible universally (it's a little known fact that I have to suffer with the inhibitions of MacOS). It was initially made for quieter typing, but could probably be bound for a lot more uses.
 
 ## setup and usage
 
